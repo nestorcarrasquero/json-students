@@ -10,13 +10,15 @@
       "nombres": "MARIA",
       "apellidos": "LUJANO"
     }    
-  ],
-  "profile": [
+  ] 
+},
+{
+    "profile": [
     {
       "name": "typicode"
     },
     {
       "name": "typical"
     }
-  ]  
+  ] 
 }
