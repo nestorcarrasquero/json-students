@@ -11,6 +11,10 @@
       "apellidos": "LUJANO"
     }    
   ],
+  
+},
+
+{
   "libros": [
     {
       "titulo": "Cien años de soledad",
