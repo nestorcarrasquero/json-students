@@ -4,21 +4,6 @@
       "cedula": 1,
       "nombres": "LUIS",
       "apellidos": "PEREZ"
-    },
-    {
-      "cedula": 2,
-      "nombres": "MARIA",
-      "apellidos": "LUJANO"
-    }    
-  ] 
-},
-{
-    "profile": [
-    {
-      "name": "typicode"
-    },
-    {
-      "name": "typical"
     }
   ] 
 }
