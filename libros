@@ -1,0 +1,12 @@
+{
+  "libros": [
+    {
+      "titulo": "Cien años de soledad",
+      "autor": "Gabriel García Márquez"
+    },
+    {
+      "titulo": "Doña Bárbara",
+      "autor": "Rómulo Gallegos"
+    }
+  ]
+}
